@@ -1,2 +1,2 @@
-alert(“Hi world Edited”);
+alert(“Change”);
 console.log("Changes in the file");
